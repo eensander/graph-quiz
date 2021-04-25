@@ -1,0 +1,6 @@
+
+# TODO
+
+- Adding label to connection
+
+JS's Path getPointAtLength() getTotalLength() methods could be used if injected into drawflow's updateConnection?

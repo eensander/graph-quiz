@@ -27370,7 +27370,6 @@ select{
 }
 
 .sticky{
-  position: -webkit-sticky;
   position: sticky;
 }
 
@@ -40116,7 +40115,6 @@ table.style-main-table thead tr th {
   padding-bottom: 0.5rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-  position: -webkit-sticky;
   position: sticky;
   top: 0px;
   --tw-text-opacity: 1;
@@ -58138,7 +58136,6 @@ table.style-main-table tbody tr td {
   }
 
   .sm\:sticky{
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -88746,7 +88743,6 @@ table.style-main-table tbody tr td {
   }
 
   .md\:sticky{
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -119354,7 +119350,6 @@ table.style-main-table tbody tr td {
   }
 
   .lg\:sticky{
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -149962,7 +149957,6 @@ table.style-main-table tbody tr td {
   }
 
   .xl\:sticky{
-    position: -webkit-sticky;
     position: sticky;
   }
 
@@ -180570,7 +180564,6 @@ table.style-main-table tbody tr td {
   }
 
   .\32xl\:sticky{
-    position: -webkit-sticky;
     position: sticky;
   }
 

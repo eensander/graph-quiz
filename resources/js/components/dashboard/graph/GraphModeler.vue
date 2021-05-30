@@ -25,7 +25,6 @@
     const toast = useToast();
 
     import { Graph } from '@antv/x6'
-    // import FlowGraph from './antvis-graph.ts'
 
     import GraphModelerConfigBar from './GraphModelerConfigBar.vue'
     import GraphModelerElementsBar from './GraphModelerElementsBar.vue'

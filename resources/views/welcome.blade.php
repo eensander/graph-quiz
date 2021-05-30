@@ -19,7 +19,7 @@
         <div class="text-center">
             <span class="block text-4xl mb-2 font-thin">Welcome to</span>
             {{-- <span class="block text-6xl font-bold">[ insert innovative and intuitive name here ]</span> --}}
-            <span class="block text-6xl font-bold">Design Research</span>
+            <span class="block text-6xl font-bold">Graph Quiz</span>
         </div>
     </div>
 @endsection
